@@ -1,7 +1,7 @@
 public class Inserionsort {
     static void insertionsort(int []a){
         int n=a.length;
-        for(int i=1;i<n;i++){
+        for(int i=1;i<n;i++){////j is always index value
             int j=i;
             while(j>0 &&a[j]<a[j-1]){
                 int temp=a[j];
