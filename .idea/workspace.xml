@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36629ec-b9d2-4337-8d6f-7b5a9ce3154f" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BUBBLESORT/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inserionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/INSERTIONSORT/Inserionsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MERGESORT-WA0022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/MERGESORT/MERGESORT-WA0022.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MERGESORT/Mergesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Selectionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELECTIONSORT/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5/QUICKSORT/Quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/BUBBLESORT 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/BUBBLESORT.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/Bubblesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/INSERTIONSORT 1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/INSERTIONSORT 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/Inserionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/Inserionsort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MERGESORT/MERGESORT-WA0022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/MERGESORT/MERGESORT-WA0022.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MERGESORT/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/MERGESORT/Mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/SELECTIONSORT 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/SELECTIONSORT.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/Selectionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/Selectionsort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IdeaProjects/IdeaProjects/DSA-intellji/src",
+    "last_opened_file_path": "D:/IdeaProjects/IdeaProjects/DSA-intellji/src/QUICKSORT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,7 +108,8 @@
       <workItem from="1755835627318" duration="10000" />
       <workItem from="1755838156209" duration="183000" />
       <workItem from="1755842397829" duration="20000" />
-      <workItem from="1755885200484" duration="444000" />
+      <workItem from="1755885200484" duration="479000" />
+      <workItem from="1755888072372" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -180,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755885476302</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1755885658771</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755885658771</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
