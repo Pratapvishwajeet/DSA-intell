@@ -1,4 +1,5 @@
-import java.util.*;
+package SELECTIONSORT;
+
 public class Selectionsort {
     static void selectionSort(int[] arr){
         int n = arr.length;

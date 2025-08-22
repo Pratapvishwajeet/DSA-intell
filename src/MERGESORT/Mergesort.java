@@ -1,3 +1,5 @@
+package MERGESORT;
+
 public class Mergesort {
     static void displayArr(int[] arr){
         for(int val : arr){

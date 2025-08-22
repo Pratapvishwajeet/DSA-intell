@@ -1,3 +1,5 @@
+package INSERTIONSORT;
+
 public class Inserionsort {
     static void insertionsort(int []a){
         int n=a.length;
