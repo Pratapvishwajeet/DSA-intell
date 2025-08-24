@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36629ec-b9d2-4337-8d6f-7b5a9ce3154f" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/5/QUICKSORT/Quicksort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/BUBBLESORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/BUBBLESORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/BUBBLESORT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BUBBLESORT/Bubblesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/1/BUBBLESORT/Bubblesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/INSERTIONSORT 1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/INSERTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/INSERTIONSORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/INSERTIONSORT/Inserionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/INSERTIONSORT/Inserionsort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MERGESORT/MERGESORT-WA0022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/MERGESORT/MERGESORT-WA0022.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MERGESORT/Mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/MERGESORT/Mergesort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/SELECTIONSORT 2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/SELECTIONSORT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/SELECTIONSORT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELECTIONSORT/Selectionsort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/2/SELECTIONSORT/Selectionsort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +48,14 @@
     "Application.Inserionsort.executor": "Run",
     "Application.Mergesort.executor": "Run",
     "Application.Selectionsort.executor": "Run",
+    "Application.binarysearch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IdeaProjects/IdeaProjects/DSA-intellji/src/QUICKSORT",
+    "last_opened_file_path": "D:/IdeaProjects/IdeaProjects/DSA-intellji/src/5/QUICKSORT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +68,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\IdeaProjects\DSA-intellji\src\5\QUICKSORT" />
+      <recent name="D:\IdeaProjects\IdeaProjects\DSA-intellji\src\QUICKSORT" />
       <recent name="D:\IdeaProjects\IdeaProjects\DSA-intellji\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -109,7 +100,9 @@
       <workItem from="1755838156209" duration="183000" />
       <workItem from="1755842397829" duration="20000" />
       <workItem from="1755885200484" duration="479000" />
-      <workItem from="1755888072372" duration="312000" />
+      <workItem from="1755888072372" duration="478000" />
+      <workItem from="1756055702303" duration="184000" />
+      <workItem from="1756059277744" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -191,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755885658771</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1755888395265</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755888395265</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1755888506637</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755888506637</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
