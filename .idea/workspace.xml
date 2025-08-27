@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36629ec-b9d2-4337-8d6f-7b5a9ce3154f" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/RotatedSortedArray/Rotated.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,8 @@
       <workItem from="1756060443348" duration="95000" />
       <workItem from="1756099379063" duration="7000" />
       <workItem from="1756142957105" duration="75000" />
-      <workItem from="1756143045628" duration="361000" />
+      <workItem from="1756143045628" duration="412000" />
+      <workItem from="1756183368287" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -215,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756060488416</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1756143427161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756143427161</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
